@@ -1,0 +1,10 @@
+{
+	"strings": {
+		"WAFFLE_MAP_WAFFLEHOUSE_NAME": "Waffle House",
+		"WAFFLE_MAP_WAFFLEHOUSE_SUBTITLE": "Fine Diner of the Deep",
+		"WAFFLE_BAZAAR_SEER_WAFFLEHOUSE": "<style=cWorldEvent>You dream of violence.</style>",
+		"WAFFLE_MAP_WAFFLEHOUSE_LORE": "I’ve been going there since before I knew that “what the hell” was a nono word (6 year old). It is very good place for good price and I like coming to this sub to watch people with their Waffle House. Waffle House all star combo is the greatest deal in the south, all this good breakfast goodness for less than $10? Hell yeah (I can say hell now since I’m older)!\n\nMan I’ll never stop going to Waffle House. I know that some Waffle House’s always have some fucked up shit in them like robbery’s and gang wars and drug cartels, but Waffle House is in almost every single town in Georgia. You can’t escape the House. It always seems to be this one Waffle House that had all the trouble, if it’s the same one, I’ll probably never go to that so I don’t risk getting shot! But I’ll go to any other Waffle House. I mean you just can’t stop going. The Waffle the house is named after is truly something else. It’s not like the toaster waffles that are hard and crunchy, but it’s soft and creamy (with the butter).\n\nI actually think Waffle House had some geniuses on their side when making the system that Waffle House revolves around. You sit at a bar or table, and then order like normal. However, they get all that food out so fast! It’s crazy when you think how the place can be full and that small little cooking area seems like it can prepare ~15 meals in under 10 minutes! Truly magical this place is.",
+
+		"UNLOCKABLE_LOG_MAP_WAFFLEHOUSE": "Environment Log: Waffle House"
+	}
+}
