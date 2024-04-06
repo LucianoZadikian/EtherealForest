@@ -2,6 +2,7 @@
   "dependencies": {
     "com.passivepicasso.thunderkit": "https://github.com/PassivePicasso/ThunderKit.git#8.0.3",
     "com.unity.2d.sprite": "1.0.0",
+    "com.unity.ide.rider": "1.2.1",
     "com.unity.multiplayer-hlapi": "https://github.com/risk-of-thunder/UnityMultiplayerHLAPI.git",
     "com.unity.postprocessing": "2.3.0",
     "jace-locationsofprecipitation": "https://github.com/JaceDaDorito/jace-locationsofprecipitation.git",

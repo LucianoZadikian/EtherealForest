@@ -19,7 +19,7 @@ MonoBehaviour:
   baseSceneNameOverride: waffle_wafflehouse
   sceneType: 1
   isOfflineScene: 0
-  stageOrder: 2
+  stageOrder: 5
   requiredExpansion: {fileID: 0}
   nameToken: WAFFLE_MAP_WAFFLEHOUSE_NAME
   subtitleToken: WAFFLE_MAP_WAFFLEHOUSE_SUBTITLE

@@ -22,12 +22,14 @@ MonoBehaviour:
   ShowLogWindow: 1
   LogPackageSourceTimings: 0
   ImageCachePath: Library/MarkdownImageCache
-  CachedImageCount: 0
+  CachedImageCount: 1
   CacheSize: 0
   MarkdownOpenMode: 1
-  SelectedPipeline: {fileID: 0}
-  SelectedManifest: {fileID: 0}
-  QuickAccessPipelines: []
-  QuickAccessManifests: []
+  SelectedPipeline: {fileID: 11400000, guid: 6face997eca38344ab9a5415348a4f3f, type: 2}
+  SelectedManifest: {fileID: 11400000, guid: ddfb610a9aa0d3a4c95c234b5d78f471, type: 2}
+  QuickAccessPipelines:
+  - {fileID: 11400000, guid: 6face997eca38344ab9a5415348a4f3f, type: 2}
+  QuickAccessManifests:
+  - {fileID: 11400000, guid: ddfb610a9aa0d3a4c95c234b5d78f471, type: 2}
   ImportConfiguration: {fileID: 11400000, guid: ee6fefe6b883783418e0844db6425b2f,
     type: 2}

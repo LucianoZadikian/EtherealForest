@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7936516b-9b03-4d32-bd9d-2ce66a3b6584" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../StreamingAssets/aa/catalog.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../StreamingAssets/aa/catalog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/AddressableGraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/AddressableGraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/AddressableGraphicsSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/AddressableGraphicsSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/ImportConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/ImportConfiguration.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/Logs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/Logs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/MaterialEditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/MaterialEditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/MaterialEditorSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/MaterialEditorSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/RoR2EditorKitSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/RoR2EditorKitSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/RoR2EditorKitSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/RoR2EditorKitSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/ThunderKitSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/ThunderKitSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ThunderKitSettings/ThunderKitSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../ThunderKitSettings/ThunderKitSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scene/waffle_wafflehouse.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scene/waffle_wafflehouse.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WaffleHouse.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../WaffleHouse.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WaffleHouseAssets/airNodesWaffleHouse.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../WaffleHouseAssets/airNodesWaffleHouse.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WaffleHouseAssets/groundNodesWaffleHouse.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../WaffleHouseAssets/groundNodesWaffleHouse.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WaffleHouseAssets/waffle_wafflehouse.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../WaffleHouseAssets/waffle_wafflehouse.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/HookGenPatcher/BepInEx/plugins/MMHOOK.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Decalicious.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Decalicious.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/EOS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/EOS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/GenericIK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/GenericIK.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGCSharpUtils.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGCSharpUtils.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGSignup.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGSignup.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGUnityUtils.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/HGUnityUtils.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/KinematicCharacterController.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/KinematicCharacterController.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/LegacyResourcesAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/LegacyResourcesAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/ModLoader.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/ModLoader.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Rewired_CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Rewired_CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/RoR2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/RoR2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/SimpleJSON.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/SimpleJSON.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.Addressables.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.Addressables.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Csg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Csg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.KdTree.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.KdTree.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Poly2Tri.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Poly2Tri.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Stl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.Stl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ProBuilder.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.RenderPipelines.Core.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.RenderPipelines.Core.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.RenderPipelines.Core.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.RenderPipelines.Core.ShaderLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ResourceManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.ResourceManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Wwise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/Wwise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/plugins/EOSSDK-Win32-Shipping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/plugins/EOSSDK-Win32-Shipping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/plugins/EOSSDK-Win64-Shipping.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/Risk of Rain 2/plugins/EOSSDK-Win64-Shipping.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/mmhook-assemblies/MMHOOK_KinematicCharacterController.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/mmhook-assemblies/MMHOOK_KinematicCharacterController.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Packages/mmhook-assemblies/MMHOOK_RoR2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Packages/mmhook-assemblies/MMHOOK_RoR2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ContentProvider.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2egnRkyxjXyfTGubQnGninenxxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\lucia\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\lucia\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\lucia\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7936516b-9b03-4d32-bd9d-2ce66a3b6584" name="Changes" comment="" />
+      <created>1712335083263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712335083263</updated>
+      <workItem from="1712335086786" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
