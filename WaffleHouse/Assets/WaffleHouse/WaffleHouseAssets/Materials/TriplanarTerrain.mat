@@ -9,7 +9,9 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: TriplanarTerrain
   m_Shader: {fileID: 4800000, guid: 943a3a99798b7d045988c4e0eb1472d7, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: USE_ROR2_STYLE_NORMALMAP _TEX1MULTCOLOR_ON _TEX1NORMALCHANNEL_NONE
+    _TEX1SPLATCHANNEL_NONE _TEX1VERTEXCOLORCHANNEL_NONE _TEX2NORMALCHANNEL_Y _TEX3NORMALCHANNEL_NONE
+    _TEX3SPLATCHANNEL_RED _TEX3VERTEXCOLORCHANNEL_NONE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -47,6 +49,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 99c65886390f6f74d852e070d1f0a063, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -56,11 +62,28 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Ramp:
-        m_Texture: {fileID: 2800000, guid: 41b2023c8fd98d64c8e9149eb9cbc242, type: 3}
+        m_Texture: {fileID: 2800000, guid: c72e17ef2cee1634590b8707b1255367, type: 3}
         m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SplatMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex1:
+        m_Texture: {fileID: 2800000, guid: bd6cf7830343fe44b9825d511eaceec1, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+    - _Tex2:
+        m_Texture: {fileID: 2800000, guid: 096ba788444595f49a0df22590d3ca59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex3:
+        m_Texture: {fileID: 2800000, guid: f3d6a629ac4c16641b25c8249453110d, type: 3}
+        m_Scale: {x: 5, y: 5}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Bias: -0.567
+    - _BlendFactor: 0.86
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -71,17 +94,44 @@ Material:
     - _MapScale: 1.07
     - _Metallic: 0
     - _Mode: 0
+    - _NormalIntesity: 0.198
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ShadowFalloff: 0.598
-    - _ShadowIntensity: 0.645
+    - _RoR2NormalMapToggle: 1
+    - _ShadowFalloff: 0.088
+    - _ShadowIntensity: 0.497
+    - _Smoothness: 0.03
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TexScale: 1
+    - _Tex1Bias: 0.097
+    - _Tex1MultColor: 1
+    - _Tex1NormalChannel: 0
+    - _Tex1SplatChannel: 0
+    - _Tex1StepStrength: 0.591
+    - _Tex1VertexColorChannel: 0
+    - _Tex2Bias: 0.536
+    - _Tex2Contrast: 0.799
+    - _Tex2InvertMask: 0
+    - _Tex2MultColor: 0
+    - _Tex2NormalChannel: 2
+    - _Tex2SplatChannel: 0
+    - _Tex2StepContrast: 0.549
+    - _Tex2StepStrength: 0.634
+    - _Tex2VertexColorChannel: 0
+    - _Tex3Bias: 1
+    - _Tex3Contrast: 0
+    - _Tex3InvertMask: 0
+    - _Tex3MultColor: 0
+    - _Tex3NormalChannel: 0
+    - _Tex3SplatChannel: 1
+    - _Tex3StepContrast: 0.189
+    - _Tex3StepStrength: 0.655
+    - _Tex3VertexColorChannel: 0
+    - _TexScale: 0.173
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _AmbientColor: {r: 0.19806935, g: 0.19806935, b: 0.19806935, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.17625198, g: 0.22933498, b: 0.556, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
