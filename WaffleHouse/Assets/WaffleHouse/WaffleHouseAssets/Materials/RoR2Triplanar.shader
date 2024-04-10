@@ -8,7 +8,7 @@
         _ShadowFalloff("Shadow Falloff", Range(0,1)) = 0.005
         _TexScale("Global Tiling", Range(0, 1)) = 1
         _NormalMap("Normal Map", 2D) = "white" {}
-        _NormalIntesity("Normal Intensity", Range(0, 1)) = 1
+        _NormalIntensity("Normal Intensity", Range(0, 1)) = 1
         _SplatMap("Splat Map", 2D) = "black" {}
 
          // Properties for Main Texture
@@ -57,7 +57,7 @@
         float _TexScale;
         sampler2D _NormalMap;
         float4 _NormalMap_ST;
-        float _NormalIntesity;
+        float _NormalIntensity;
         sampler2D _SplatMap;
         float4 _SplatMap_ST;
         
@@ -151,7 +151,7 @@
             return (cx + cy + cz);
         }
 
-        float GetTexHeightAlpha(float4 tex, float mask, float bias, float contrast)
+        float BuildTexAlpha(float4 tex, float mask, float bias, float contrast)
         {
             float heightLerp = 1 - ((1 - tex.a) * (1 - mask));
             heightLerp = saturate(heightLerp);
@@ -212,8 +212,8 @@
             float tex_slopeMask = GetMaskFromDataByEnum(tex.normalChannelProperty, float4(IN.normal, 0));
             float tex_colorMask = GetMaskFromDataByEnum(tex.vertexColorChannelProperty, IN.vertexColor);
             float tex_Mask = saturate(tex_splatMask + tex_slopeMask + tex_colorMask * tex_combined.a);
-            float tex_blend = GetTexHeightAlpha(tex_small, tex_Mask, tex.bias, tex.contrast);
-            float tex_blend2 = GetTexHeightAlpha(tex_large, tex_Mask, tex.bias, tex.contrast);
+            float tex_blend = BuildTexAlpha(tex_small, tex_Mask, tex.bias, tex.contrast);
+            float tex_blend2 = BuildTexAlpha(tex_large, tex_Mask, tex.bias, tex.contrast);
             float tex_blendCombined = lerp(tex_blend, tex_blend2, 0.5);
             
             if(tex.invertMask)
@@ -272,7 +272,7 @@
             // Build normal 
             TriplanarUV triUVNormal = GetTriplanarUV(IN.position, (_TexScale * _NormalMap_ST.xy) * 0.2);
             
-            o.Normal = UnpackNormalWithScale(TriplanarTextureSample(_NormalMap, triUVNormal, bf), _NormalIntesity);
+            o.Normal = UnpackNormalWithScale(TriplanarTextureSample(_NormalMap, triUVNormal, bf), _NormalIntensity);
         }
         ENDCG
     }
