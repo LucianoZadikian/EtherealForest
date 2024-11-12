@@ -1,2 +1,2 @@
-# WaffleHouse
-An example stage for RoR2
+# Ethereal Forest
+RoR2 mod project
